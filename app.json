@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "amwms",
+    "slug": "amwms",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c01730a2-6254-4d03-8eee-55a4a2381525"
+      }
+    },
+    "android": {
+      "package": "com.the1020.amwms"
+    }
+  },
+  "name": "amwms"
+}
